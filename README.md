@@ -50,3 +50,5 @@ showkey --ascii
 - [Specification]
 
 [Specification]: http://leonerd.org.uk/hacks/fixterms/
+
+[Video discussing setting this up for neovim](https://www.youtube.com/watch?v=lHBD6pdJ-Ng)
